@@ -5,7 +5,7 @@ app.get("/", function(req, res) {
     res.send(`
         <html>
             <body style="font-family: Arial; background-color: #1a1a2e; color: white; text-align: center; padding: 50px;">
-                <h1>⚽ Bem-vindo ao SportHub!</h1>
+                <h1>⚽ Bem-vindo ao AMÉRICO ESPORTES</h1>
                 <p>Seu portal de esportes favorito</p>
                 <br>
                 <a href="/modalidades" style="color: #00d4ff;">Ver Modalidades</a> |
